@@ -9,7 +9,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0px auto;
-  max-width: 100%;
+  max-width: 85%;
   width: 100%;
 }
 
@@ -209,15 +209,4 @@ hr {
   .link-primary {
     display: block;
   }
-}
-
-#Solid-blogs{
-  text-align: center;
-  background-color: blue;
-  margin: 8% 20%;
-  border-radius: 1em;
-  
-}
-h3{
-  background-color: cornsilk;
 }
